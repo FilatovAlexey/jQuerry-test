@@ -1,0 +1,58 @@
+.football {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.field {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.ball {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
+
+/* .left-right {
+  animation: left-right 15s ease forwards;
+}
+@keyframes left-right {
+  0% {
+    transform: translate(0) rotate(0deg);
+  }
+  10% {
+    transform: translate(1235px, 0) rotate(330deg);
+  }
+  20% {
+    transform: translate(0, 300px) rotate(0deg);
+  }
+  30% {
+    transform: translate(1235px, 500px) rotate(330deg);
+  }
+  40% {
+    transform: translate(0, 100px) rotate(330deg);
+  }
+
+  50% {
+    transform: translate(1235px, 600px) rotate(330deg);
+  }
+  60% {
+    transform: translate(0, 150px) rotate(0deg);
+  }
+  70% {
+    transform: translate(1235px, 200px) rotate(330deg);
+  }
+  80% {
+    transform: translate(0, 500px) rotate(330deg);
+  }
+  90% {
+    transform: translate(1235px, 200px) rotate(330deg);
+  }
+  100% {
+    transform: translate(0) rotate(0deg);
+  }
+} */
